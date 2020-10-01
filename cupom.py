@@ -46,7 +46,6 @@ class Loja:
     if self.complemento:
        _complemento = " " + self.complemento
 
-
     _bairro = ""
 
     if self.bairro:
@@ -63,7 +62,6 @@ class Loja:
 
     else:
         _telefone = "Tel " + self.telefone
-
 
     _observacao = ""
 
